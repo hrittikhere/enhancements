@@ -780,7 +780,7 @@ enhancement:
 -->
 
 This feature exposes new fields such as `BindingConditions` in the
-`ResourceClaim` and `ResourceSlice`, the fields willeither be present or not.
+`ResourceClaim` and `ResourceSlice`, the fields will either be present or not.
 
 This feature uses the DRA interface and will follow the DRA upgrade/downgrade
 strategy.
